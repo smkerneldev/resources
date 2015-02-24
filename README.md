@@ -12,6 +12,7 @@ All reference materials
 8. [Blog about system programming](http://0xax.blogspot.com/)
 9. [Linux Insides](https://github.com/0xAX/linux-insides)
 10. [Learning assembly for linux-x64](https://github.com/0xAX/asm)
+11. [Kernel Development](http://lwn.net/Articles/604218/)
 
 ### Tools
 1.  [Bochs  open source IA-32 (x86) PC emulator written in C++](http://bochs.sourceforge.net/)
